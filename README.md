@@ -17,7 +17,7 @@
 
 👉 **[📂 Explorer WordPress 6.9.4](https://phpsources.net/x7g3p2.php?id=420&name=wordpress-6.9.4-fr_FR.zip)**
 
-**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
 
 👉 **[WordPress sur phpsources.net](https://phpsources.net/script/php/blogs/420-191_wordpress,6.9.4)**
 
